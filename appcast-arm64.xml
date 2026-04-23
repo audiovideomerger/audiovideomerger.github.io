@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Audio Video Merger</title>
+        <item>
+            <title>2.0.0-beta.4</title>
+            <pubDate>Thu, 23 Apr 2026 12:06:08 +0000</pubDate>
+            <link>https://audiovideomerger.github.io</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/kapoko/audio-video-merger/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>2.0.0</sparkle:version>
+            <sparkle:shortVersionString>2.0.0-beta.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/kapoko/audio-video-merger/releases/download/v2.0.0-beta.4/AudioVideoMerger-darwin-arm64-2.0.0-beta.4.dmg" length="25518873" type="application/octet-stream"/>
+        </item>
+    </channel>
+</rss>
