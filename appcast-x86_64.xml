@@ -3,15 +3,15 @@
     <channel>
         <title>Audio Video Merger</title>
         <item>
-            <title>2.0.0-beta.12</title>
-            <pubDate>Sat, 25 Apr 2026 08:58:08 +0000</pubDate>
+            <title>2.0.0-beta.13</title>
+            <pubDate>Sat, 25 Apr 2026 09:27:29 +0000</pubDate>
             <link>https://audiovideomerger.github.io</link>
             <sparkle:fullReleaseNotesLink>https://github.com/kapoko/audio-video-merger/releases</sparkle:fullReleaseNotesLink>
             <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>2.0.0b12</sparkle:version>
-            <sparkle:shortVersionString>2.0.0-beta.12</sparkle:shortVersionString>
+            <sparkle:version>2.0.0b13</sparkle:version>
+            <sparkle:shortVersionString>2.0.0-beta.13</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/kapoko/audio-video-merger/releases/download/v2.0.0-beta.12/AudioVideoMerger-darwin-x86_64-2.0.0-beta.12.dmg" length="29076477" type="application/octet-stream" sparkle:edSignature="xzKhKHYATvIlT0xDjj0fq26qgQt7Xzvw1DLoen7gCyq9+X2OXg59FZg40oslZeo6B9jum7OtAAWQAuDOpUILDQ=="/>
+            <enclosure url="https://github.com/kapoko/audio-video-merger/releases/download/v2.0.0-beta.13/AudioVideoMerger-darwin-x86_64-2.0.0-beta.13.dmg" length="29082217" type="application/octet-stream" sparkle:edSignature="4ZMKaJuzPcSu2VZqEudbamDo9FbJ9eLouo61f4xD6N11TAS8JWnET3Su9w2Nq7uftOmFg2tTEbhAdj3/rDIqBg=="/>
         </item>
     </channel>
 </rss>
