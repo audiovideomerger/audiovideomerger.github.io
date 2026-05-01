@@ -11,7 +11,7 @@
             <sparkle:version>2.0.0b17</sparkle:version>
             <sparkle:shortVersionString>2.0.0-beta.17</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/kapoko/audio-video-merger/releases/download/v2.0.0-beta.17/AudioVideoMerger-darwin-x86_64-2.0.0-beta.17.dmg" length="29774560" type="application/octet-stream" sparkle:edSignature="91RgQLm6ZIda+0DK3YQsbqtdn4bp0QhHJuxBxjEjKrHOqoflbYqVh+ijPAaWTZgKVKpZWdLtjEzoDsFO4P4yAw=="/>
+            <enclosure url="https://github.com/kapoko/audio-video-merger/releases/download/v2.0.0-beta.17/AudioVideoMerger-darwin-x86_64-2.0.0-beta.17.dmg" length="29776545" type="application/octet-stream" sparkle:edSignature="EVEsTLCsV/BtDfgGKWIS1BklpdK0JUVlWt1BGS3sWnBRf7jGFp/93+tQ69DU5ldauhAg9ljAG7TuBAZuXCX+Bw=="/>
         </item>
     </channel>
 </rss>
