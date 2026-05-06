@@ -3,6 +3,18 @@
     <channel>
         <title>Audio Video Merger</title>
         <item>
+            <title>2.0.1-beta.1</title>
+            <pubDate>Wed, 06 May 2026 14:24:42 +0000</pubDate>
+            <link>https://audiovideomerger.github.io</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/kapoko/audio-video-merger/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:channel>beta</sparkle:channel>
+            <sparkle:version>2.0.1b1</sparkle:version>
+            <sparkle:shortVersionString>2.0.1-beta.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/kapoko/audio-video-merger/releases/download/v2.0.1-beta.1/AudioVideoMerger-darwin-arm64-2.0.1-beta.1.dmg" length="25635812" type="application/octet-stream" sparkle:edSignature="G7HWn3YGQu1+CihRMb6pj3EwsK/z34urIEAMyAdTQu43+NxgmICHG85y+HA+ejZeRYPUlIHHNxv+Okn02HzbCQ=="/>
+        </item>
+        <item>
             <title>2.0.0</title>
             <pubDate>Fri, 01 May 2026 13:14:37 +0000</pubDate>
             <link>https://audiovideomerger.github.io</link>
@@ -12,18 +24,6 @@
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/kapoko/audio-video-merger/releases/download/v2.0.0/AudioVideoMerger-darwin-arm64-2.0.0.dmg" length="25610815" type="application/octet-stream" sparkle:edSignature="J1McyjM98ecArPU9MqY3j6F8kyQLX4ZKUhoIC8JC6b5Iaqs4+KT0Cr20DYCEZr4Rifqean9N+HcawVYEofecDw=="/>
-        </item>
-        <item>
-            <title>2.0.0-beta.17</title>
-            <pubDate>Fri, 01 May 2026 09:37:39 +0000</pubDate>
-            <link>https://audiovideomerger.github.io</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/kapoko/audio-video-merger/releases</sparkle:fullReleaseNotesLink>
-            <sparkle:channel>beta</sparkle:channel>
-            <sparkle:version>2.0.0b17</sparkle:version>
-            <sparkle:shortVersionString>2.0.0-beta.17</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/kapoko/audio-video-merger/releases/download/v2.0.0-beta.17/AudioVideoMerger-darwin-arm64-2.0.0-beta.17.dmg" length="25610866" type="application/octet-stream" sparkle:edSignature="XiQDDf3l/TqKsO/PJS5abcrNnpBysXwkdELcHotRb0utiwDSM3pSAqEmIAv10DyiBT+295QGgKF8BMEHYQNPAg=="/>
         </item>
     </channel>
 </rss>
