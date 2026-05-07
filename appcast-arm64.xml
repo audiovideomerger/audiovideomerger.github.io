@@ -3,6 +3,17 @@
     <channel>
         <title>Audio Video Merger</title>
         <item>
+            <title>2.0.1</title>
+            <pubDate>Thu, 07 May 2026 17:33:33 +0000</pubDate>
+            <link>https://audiovideomerger.github.io</link>
+            <sparkle:fullReleaseNotesLink>https://github.com/kapoko/audio-video-merger/releases</sparkle:fullReleaseNotesLink>
+            <sparkle:version>2.0.1</sparkle:version>
+            <sparkle:shortVersionString>2.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/kapoko/audio-video-merger/releases/download/v2.0.1/AudioVideoMerger-darwin-arm64-2.0.1.dmg" length="25558134" type="application/octet-stream" sparkle:edSignature="EFtbzT+aTHxyU5TAEkDNZKjrBd3Z8YRxpAbRpoBx47ymAhug1vzhKUt9JIhPHoih3txmqcekigsBUtKaiJpyDg=="/>
+        </item>
+        <item>
             <title>2.0.1-beta.1</title>
             <pubDate>Wed, 06 May 2026 14:24:42 +0000</pubDate>
             <link>https://audiovideomerger.github.io</link>
@@ -13,17 +24,6 @@
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
             <enclosure url="https://github.com/kapoko/audio-video-merger/releases/download/v2.0.1-beta.1/AudioVideoMerger-darwin-arm64-2.0.1-beta.1.dmg" length="25635812" type="application/octet-stream" sparkle:edSignature="G7HWn3YGQu1+CihRMb6pj3EwsK/z34urIEAMyAdTQu43+NxgmICHG85y+HA+ejZeRYPUlIHHNxv+Okn02HzbCQ=="/>
-        </item>
-        <item>
-            <title>2.0.0</title>
-            <pubDate>Fri, 01 May 2026 13:14:37 +0000</pubDate>
-            <link>https://audiovideomerger.github.io</link>
-            <sparkle:fullReleaseNotesLink>https://github.com/kapoko/audio-video-merger/releases</sparkle:fullReleaseNotesLink>
-            <sparkle:version>2.0.0</sparkle:version>
-            <sparkle:shortVersionString>2.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/kapoko/audio-video-merger/releases/download/v2.0.0/AudioVideoMerger-darwin-arm64-2.0.0.dmg" length="25610815" type="application/octet-stream" sparkle:edSignature="J1McyjM98ecArPU9MqY3j6F8kyQLX4ZKUhoIC8JC6b5Iaqs4+KT0Cr20DYCEZr4Rifqean9N+HcawVYEofecDw=="/>
         </item>
     </channel>
 </rss>
