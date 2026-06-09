@@ -3,15 +3,15 @@
     <channel>
         <title>Audio Video Merger</title>
         <item>
-            <title>2.0.5</title>
-            <pubDate>Fri, 05 Jun 2026 17:27:23 +0000</pubDate>
+            <title>2.0.6</title>
+            <pubDate>Tue, 09 Jun 2026 13:50:11 +0000</pubDate>
             <link>https://audiovideomerger.koman.app</link>
             <sparkle:fullReleaseNotesLink>https://github.com/kapoko/audio-video-merger/releases</sparkle:fullReleaseNotesLink>
-            <sparkle:version>2.0.5</sparkle:version>
-            <sparkle:shortVersionString>2.0.5</sparkle:shortVersionString>
+            <sparkle:version>2.0.6</sparkle:version>
+            <sparkle:shortVersionString>2.0.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/kapoko/audio-video-merger/releases/download/v2.0.5/AudioVideoMerger-darwin-arm64-2.0.5.dmg" length="25275138" type="application/octet-stream" sparkle:edSignature="6q+cdjbn6PU5e2DGFpIqVTXPjP8ENzALT53HxXOkDJVTUc+oylA9QlLjZmhO7Wb38c/NbYWTd3WZukdqRaKjDg=="/>
+            <enclosure url="https://github.com/kapoko/audio-video-merger/releases/download/v2.0.6/AudioVideoMerger-darwin-arm64-2.0.6.dmg" length="25281529" type="application/octet-stream" sparkle:edSignature="0QMhQQ9MoXP0sPvhxy7QmZmmr+nadon6kq892fYd7s3U77CT6dXStnmwIj6rT/7og1PgmxfvjeYVc1xV10tOBw=="/>
         </item>
         <item>
             <title>2.0.1-beta.1</title>
